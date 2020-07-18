@@ -1,6 +1,6 @@
 {
   "display_name": "Swift, Swordfish",
-  "image_name": "cyberdojofoundation/swift_swordfish:14ac79f",
+  "image_name": "cyberdojofoundation/swift_swordfish:5f3d03f",
   "visible_filenames": [
     "swordfish.swift",
     "hikertests.swift",
