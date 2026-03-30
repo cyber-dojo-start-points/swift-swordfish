@@ -1,6 +1,6 @@
 {
-  "display_name": "Swift, Swordfish",
-  "image_name": "cyberdojofoundation/swift_swordfish:5f3d03f",
+  "display_name": "Swift 6.0.3, Swordfish",
+  "image_name": "ghcr.io/cyber-dojo-languages/swift_swordfish:e41146b",
   "visible_filenames": [
     "swordfish.swift",
     "hikertests.swift",
@@ -8,6 +8,7 @@
     "main.swift",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".swift"
   ],
