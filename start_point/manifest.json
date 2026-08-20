@@ -1,14 +1,14 @@
 {
-  "display_name": "Swift 6.0.3, Swordfish",
+  "display_name": "Swift 6.3.3, Swordfish",
   "language": [
     "Swift",
-    "6.0.3"
+    "6.3.3"
   ],
   "test_framework": [
     "Swordfish",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/swift_swordfish:e41146b",
+  "image_name": "ghcr.io/cyber-dojo-languages/swift_swordfish:7ec251e",
   "visible_filenames": [
     "swordfish.swift",
     "hikertests.swift",

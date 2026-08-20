@@ -2,9 +2,9 @@
 // see https://github.com/philsquared/Swordfish
 
 class HikerTests: SwordfishTests {
-  func testLife_the_universe_and_everything() {
-    require() | Hiker().answer() == 42
-  }
+    func testLife_the_universe_and_everything() {
+        require() | Hiker().answer() == 42
+    }
 }
 
 extension HikerTests {
