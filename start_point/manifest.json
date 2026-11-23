@@ -1,14 +1,14 @@
 {
-  "display_name": "Swift 6.4.2, Swordfish",
+  "display_name": "Swift 6.4.3, Swordfish",
   "language": [
     "Swift",
-    "6.4.2"
+    "6.4.3"
   ],
   "test_framework": [
     "Swordfish",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/swift_swordfish:e4cdabb@sha256:f9df2ac1da6912e87511ab2bd053358bf55bbc3f1b5d7230d7af80a43bea4988",
+  "image_name": "ghcr.io/cyber-dojo-languages/swift_swordfish:7f3d30f@sha256:df1c1290f75a7b2a3e82cc9b09c3b901c353feb3e79f6723924b42eb9c050922",
   "visible_filenames": [
     "swordfish.swift",
     "hikertests.swift",
